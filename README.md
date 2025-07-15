@@ -105,6 +105,7 @@ python explain.py
 For an interactive experience, launch the Streamlit application.
 
 ```streamlit run app.py```
+### Screenshot of the Streamlit UI:
 
 This will open a web interface in your browser where you can:
 1) Upload your ```candidates.json``` file.
